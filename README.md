@@ -40,12 +40,14 @@ https://dsebd.org/latest_share_price_scroll_by_value.php
 ## Standard Output
 ![scrapdata2](https://github.com/user-attachments/assets/a909e808-9a5d-472d-a71e-b15b4cf3f61e)
 
-## Pre-requisites
+## Technology Used
 - Intellij Idea
-- Clone this repository from GitHub
+- JUnit
+- Selemium-Java
 ## How to run?
-
-
+- Clone this repository from GitHub
+- Make a new Project or collect .gradle file from developer
+- After each automation report will generate in Reports folder.
 
 
 
