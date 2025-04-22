@@ -33,11 +33,13 @@ https://dsebd.org/latest_share_price_scroll_by_value.php
 - Print all the cell values like the attached image
 - Store the values in a text file
 ## Text File
-[output.txt](https://github.com/user-attachments/files/19822573/output.txt)
+[dse_share_data.txt](https://github.com/user-attachments/files/19849740/dse_share_data.txt)
 ## Automation Report
 ![scrapdata](https://github.com/user-attachments/assets/f8aac08a-0567-40d1-8bdf-54797a776288)
 ## Standard Output
-![scrapdata2](https://github.com/user-attachments/assets/a909e808-9a5d-472d-a71e-b15b4cf3f61e)
+![image](https://github.com/user-attachments/assets/cf983abd-8f11-4583-82f7-a3f53a40e483)
+## Recorded video of Automation
+https://github.com/user-attachments/assets/eaaa3849-7197-41d5-8c84-ac4e55f40a1e
 
 ## Technology Used
 - Intellij Idea
