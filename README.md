@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/eaaa3849-7197-41d5-8c84-ac4e55f40a1e
 - Selemium-Java
 ## How to run?
 - Clone this repository from GitHub
-- Make a new Project or collect .gradle file from developer
+- Make a new Project import the necessary packages or collect .gradle file from developer
 - After each automation report will generate in Reports folder.
 
 
