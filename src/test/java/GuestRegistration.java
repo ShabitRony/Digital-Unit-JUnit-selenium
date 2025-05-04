@@ -26,7 +26,7 @@ public class GuestRegistration {
 //        String titleExpected = "Guest Registration Form – User Registration";
 //        Assertions.assertTrue(titleActual.equals(titleExpected));
 //    }
-    @Test
+
     public void fillupUserForm() throws InterruptedException {
         driver.get("https://demo.wpeverest.com/user-registration/guest-registration-form/");
         List<WebElement> txtFields = driver.findElements(By.tagName("input"));

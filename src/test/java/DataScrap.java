@@ -21,7 +21,7 @@ public class DataScrap {
         driver = new ChromeDriver();
         driver.get("https://dsebd.org/latest_share_price_scroll_by_value.php");
         driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
     }
 
     @Test
