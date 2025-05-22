@@ -1,6 +1,7 @@
 .gradle
 .idea
 gradle
+!**/src/test/scrap_data
 logs/
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -43,3 +44,4 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+build.gradle
